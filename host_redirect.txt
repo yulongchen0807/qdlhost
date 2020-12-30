@@ -11,10 +11,5 @@
         {
             "url": "https://dl.changjiucj.cn"
         }
-    ],
-    "pwaredirect": [
-        {
-            "url": "https://redirect.changjiucj.cn"
-        }
     ]
 }
