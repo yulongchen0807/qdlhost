@@ -1,0 +1,20 @@
+{
+    "h5": [
+        {
+            "url": "https://pwa.jiamasoft.cn"
+        },
+       {
+            "url": "https://pwa.xyxdbp.cn"
+        }
+    ],
+    "download": [
+        {
+            "url": "https://dl.changjiucj.cn"
+        }
+    ],
+    "pwaredirect": [
+        {
+            "url": "https://redirect.changjiucj.cn"
+        }
+    ]
+}
