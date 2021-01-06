@@ -11,5 +11,10 @@
         {
             "url": "https://dl.robotchn.cn"
         }
+    ],
+    "pwaredirect": [
+        {
+            "url": "https://redirect.robotchn.cn"
+        }
     ]
     }
