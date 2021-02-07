@@ -9,7 +9,7 @@
     ],
     "download": [
         {
-            "url": "https://dl.njzsgs.cn"
+            "url": "https://dl.cizhuannianjieji.com"
         }
     ],
     "pwaredirect": [
